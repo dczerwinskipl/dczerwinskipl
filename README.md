@@ -10,11 +10,11 @@ My current focus is on practical AI workflows in software development, with an e
 
 I'm writing **From Vibe Coding to AI Workflow**, a series about using AI in software development as a structured delivery process, not just ad-hoc prompting.
 
-- [Why a Single Prompt Is Not Enough](https://dczerwinski.pl/en-EN/blog/1/why-a-single-prompt-is-not-enough)
-- [What Controls an Agent?](https://dczerwinski.pl/en-EN/blog/2/what-controls-an-agent)
+- [Why a Single Prompt Is Not Enough](https://dczerwinski.pl/en/blog/1/why-a-single-prompt-is-not-enough)
+- [What Controls an Agent?](https://dczerwinski.pl/en/blog/2/what-controls-an-agent)
 
 ## Links
 
-- [Website](https://dczerwinski.pl)
-- [Blog](https://dczerwinski.pl/en-EN/blog)
+- [Website](https://dczerwinski.pl/en)
+- [Blog](https://dczerwinski.pl/en/blog)
 - [LinkedIn](https://www.linkedin.com/in/dominikczerwinski)
