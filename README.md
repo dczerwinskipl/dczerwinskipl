@@ -4,7 +4,7 @@ Solution Architect and .NET developer focused on business systems, distributed a
 
 I work mostly with .NET, Azure, DDD, CQRS and event-driven systems, designing and building domain-heavy business systems with clear boundaries and pragmatic architecture.
 
-My current focus is practical AI workflows in software development, with an emphasis on the full delivery process: context gathering, instructions, specification, implementation, review, verification, cost control and security.
+My current focus is on practical AI workflows in software development, with an emphasis on the full delivery process: context gathering, instructions, specification, implementation, review, verification, cost control and security.
 
 ## Writing
 
